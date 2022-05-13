@@ -1,0 +1,17 @@
+.li-item {
+    color: blue;
+}
+.li-second {
+    color: orange
+}
+#ul-list {
+    display: flex;
+    justify-content: space-between;
+}
+.image-block {
+    height: 100px;
+    margin: 5px 0 20px 5px;
+}
+.email-block {
+    margin: 0 5px 20px 5px;
+}
